@@ -34,7 +34,7 @@ import pickle
 
 
 # change the 'basepatch' to the directory of the unzipped movie dataset
-basepath = r'C:\Users\benmr\PycharmProjects\MacineLearningBook\sentiment_analysis_main\aclImdb'
+basepath = r'' # Directory goes here
 
 labels = {'pos': 1, 'neg': 0}
 pbar = pyprind.ProgBar(50000)
